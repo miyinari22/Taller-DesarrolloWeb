@@ -1,0 +1,58 @@
+.main_bg {
+    background-color: rgb(129, 134, 202);
+}
+
+.title1 {
+    border-style: outset;
+    border-color: rgb(112, 88, 197);
+    margin-bottom: .3px;
+    background-color: rgb(193, 235, 126);
+    text-shadow: 2px 2px 5px rgb(15, 5, 56);
+    text-align: center;
+    color:rgb(183, 223, 228)  
+}
+
+.text1 {
+    margin-left: 5%;
+    line-height: 20px;
+}
+
+.title2 {
+    margin-left: 5%;
+    line-height: 15px;
+    color:rgb(105, 9, 83)
+}
+
+.title3 {
+    margin-left: 5%;
+    line-height: 25px;
+    color:rgb(85, 14, 14)
+}
+
+.title4 {
+    margin-left: 5%;
+    line-height: 25px;
+    color:rgb(73, 39, 87)
+}
+
+.text3 {
+    margin-left: 5%;
+    line-height: 20px;
+    color:rgb(153, 233, 160)
+}
+
+.text4 {
+    margin-left: 5%;
+    line-height: 20px;
+    color: rgb(3, 31, 107);
+}
+
+.text5 {
+    margin-left: 5%;
+    line-height: 20px;
+    color: rgb(219, 183, 171);
+}
+
+.img1{
+    text-align: center;
+}

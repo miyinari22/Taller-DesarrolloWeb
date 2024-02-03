@@ -1,0 +1,70 @@
+.bg1{
+    background-color: brown;
+}
+
+.main_title{
+    margin-top: 25px;
+    text-align: center;
+    font-style: italic;
+    font-size:xx-large;
+}
+
+.title1{
+    text-align: center;
+    font-style: oblique;
+
+}
+
+.text1{
+    text-align: center;
+}
+
+.button{
+    background-color: blueviolet;
+    color:blanchedalmond;
+    padding: 10px;
+    margin: 50%;
+    text-decoration: none;
+    border-radius: 89px;
+}
+
+.button:hover{
+    background-color: chartreuse;
+    color:black;
+    border-radius: 89px;
+}
+
+.boton{
+    padding: 20px;
+}
+
+.div1{
+    background-color: rgb(61, 141, 115);
+    margin: 50px;
+    margin-bottom: 48;
+    padding: 5px;
+}
+
+.div2{
+    background-color: rgb(141, 100, 207);
+    margin: 50px;
+    margin-bottom: 48;
+}
+
+.div3{
+    background-color: rgb(249, 252, 114);
+    margin: 50px;
+    margin-bottom: 48;
+}
+
+.div4{
+    background-color: rgb(249, 252, 114);
+    margin: 50px;
+    margin-bottom: 48;
+}
+
+.div5{
+    background-color: rgb(249, 252, 114);
+    margin: 50px;
+    margin-bottom: 48;
+}
